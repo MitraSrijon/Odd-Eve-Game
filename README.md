@@ -1,5 +1,4 @@
-Odd/Eve
-Description
+
 Odd/Eve is a digital adaptation of the classic cricket game we used to play in our childhood. 
 This Python-based game is designed for a single player, where you play against the computer. 
 In each turn, you choose a number between 1 to 6. If your number matches the computer's number, it's a wicket. 
